@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_description">OpenMacro uses this service only to run the UI-automation steps you configure: tapping and swiping the screen, reading on-screen text, pressing Back/Home, and detecting which app is in the foreground. It works fully on-device and never sends your data anywhere.</string>
+</resources>

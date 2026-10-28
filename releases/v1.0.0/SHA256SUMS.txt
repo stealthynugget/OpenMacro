@@ -1,0 +1,2 @@
+af30916ec0cec265c361c663919dc56385fb69755b8795ed3153d391bfd25265 *OpenMacro-v1.0.0-offline.apk
+7ad3262a6f73bb8a2360cbb421c280f1cf904acbd9cbcf1c595940e6e5488fcd *OpenMacro-v1.0.0-online.apk
